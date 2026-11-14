@@ -30,7 +30,7 @@ Bu aracı çalıştırmak için bilgisayarınızda **Python 3.10 veya üzeri** b
 
 1. Projeyi bilgisayarınıza indirin veya klonlayın:
    ```bash
-   git clone (https://github.com/imparathor1/Yeni-Rozetleri-Fulle)
+   git clone https://github.com/imparathor1/Yeni-Rozetleri-Fulle
 
 ## 📋 İlk Çalıştırma ve Yapılandırma
 
