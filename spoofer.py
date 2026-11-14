@@ -93,8 +93,8 @@ class Console:
         self.clear()
         print()
         print(f"  {self.ORANGE}╔══════════════════════════════════╗{self.RESET}")
-        print(f"  {self.ORANGE}║{self.RESET}      {self.WHITE}WENZOR SPOOFER{self.RESET}       {self.ORANGE}║{self.RESET}")
-        print(f"  {self.ORANGE}║{self.RESET}   {self.GREY}Discord Rozet Yöneticisi{self.RESET}     {self.ORANGE}║{self.RESET}")
+        print(f"  {self.ORANGE}║{self.RESET}      {self.WHITE}WENZOR SPOOFER{self.RESET}              {self.ORANGE}║{self.RESET}")
+        print(f"  {self.ORANGE}║{self.RESET}   {self.GREY}Discord Rozet Yöneticisi{self.RESET}       {self.ORANGE}║{self.RESET}")
         print(f"  {self.ORANGE}╚══════════════════════════════════╝{self.RESET}")
         print()
 
